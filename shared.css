@@ -2,7 +2,6 @@
 ****** STYLESHEET FOR SHARED STYLES ********
 ********************************************/
 
-
 * {
   box-sizing: border-box;
 }
@@ -12,10 +11,12 @@ body {
   margin: 0;
 }
 
+
 /******* MAIN HEADER SECTION ******/
 .main-header {
   width: 100%;
   position: fixed;
+  top: 0;
   background: #2ddf5c;
   padding: 8px 16px;
   z-index: 1;
